@@ -55,8 +55,11 @@
 #
 # Set up project in GitPod
 - Launch repository to GitPod and let build finish to minimize risk of disturbance to automatic setup
-- Enter command: npx create-react-app . --template git+https://github.com/Code-Institute-Org/cra-template-moments.git --use-npm
+- Enter command: "npx create-react-app . --template git+https://github.com/Code-Institute-Org/cra-template-moments.git --use-npm"
    - To install correct dependencies
    - All dependencies needed are now installed.
+- npm start
+   - to test if React is compiled successfully
+#
 * [Back to top](#)
 #

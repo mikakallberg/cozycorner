@@ -45,10 +45,14 @@
     - [Media](#media)  
 #
 ## First setup
--
+- Test if React is compiled successfully
+#
+React Compiles Successfully!                                              |
+:------------------------------------------------------------------------:|
+![React Compile Successfull](/read_me_map/react_compiled_successfully.png)|
 #
 ## Testing in development
--
+- 
 #
 ## Profiles
 - 
