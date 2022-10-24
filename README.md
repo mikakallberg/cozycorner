@@ -1,7 +1,6 @@
 # CozyCorner
 ![Am I Responsive]()
 ## Navigation
-#
 * [Deployed Front-End page]()
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
 * [Learning Outcomes](#learning-outcomes)
