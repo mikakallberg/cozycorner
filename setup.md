@@ -1,5 +1,4 @@
 # CozyCorner
-![Am I Responsive]()
 ## Navigation
 #
 * [Deployed Front-End page]()
@@ -11,9 +10,9 @@
    - [Plan](#plan)
    - [Lucid Chart](#lucidchart)
 * [SetUp](/setup.md)
-   - [Set up repository](/setup.md#set-up-repository)
-   - [Set up project in GitPod](/setup.md#set-up-project-in-gitpod)
-   - [Set up unique model in Gitpod](/setup.md#set-up-unique-model-in-gitpod)
+   - [Set up repository](#set-up-repository)
+   - [Set up project in GitPod](#set-up-project-in-gitpod)
+   - [Set up unique model in Gitpod](#set-up-unique-model-in-gitpod)
 * [User Experience](#user-experience-ux)
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
@@ -25,7 +24,6 @@
        - [Likes](/features.md#likes)
        - [Followers](/features.md#followers)
        - [Messages](/features.md#messages)
-       - [Contacts](/features.md#contacts)
    - [New Features](/features.md#new-features)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
@@ -36,7 +34,6 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-    - [Contacts](/testing.md#contacts)
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)

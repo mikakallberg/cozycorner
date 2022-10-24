@@ -1,5 +1,4 @@
 # CozyCorner
-![Am I Responsive]()
 ## Navigation
 #
 * [Deployed Front-End page]()
@@ -25,18 +24,16 @@
        - [Likes](/features.md#likes)
        - [Followers](/features.md#followers)
        - [Messages](/features.md#messages)
-       - [Contacts](/features.md#contacts)
    - [New Features](/features.md#new-features)
 * [Testing](/testing.md)
-    - [First setup](/testing.md#first-setup)
-    - [Testing in development](/testing.md#testing-in-development)
-    - [Profile](/testing.md#profile)
-    - [Post](/testing.md#post)
-    - [Comments](/testing.md#comments)
-    - [Likes](/testing.md#likes)
-    - [Followers](/testing.md#followers)
-    - [Messages](/testing.md#messages)
-    - [Contacts](/testing.md#contacts)
+    - [First setup](#first-setup)
+    - [Testing in development](#testing-in-development)
+    - [Profile](#profile)
+    - [Post](#post)
+    - [Comments](#comments)
+    - [Likes](#likes)
+    - [Followers](#followers)
+    - [Messages](#messages)
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
@@ -48,6 +45,25 @@
     - [Content credits](#content-credits)
     - [Media](#media)  
 #
+## First setup
+-
 #
+## Testing in development
+-
+#
+## Profiles
+- 
+#
+## Comments
+- 
+#
+## Likes
+- 
+#
+## Followers
+- 
+#
+## Messages
+- 
 * [Back to top](#)
 #

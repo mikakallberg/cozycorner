@@ -1,5 +1,4 @@
 # CozyCorner
-![Am I Responsive]()
 ## Navigation
 #
 * [Deployed Front-End page]()
@@ -25,7 +24,6 @@
        - [Likes](/features.md#likes)
        - [Followers](/features.md#followers)
        - [Messages](/features.md#messages)
-       - [Contacts](/features.md#contacts)
    - [New Features](/features.md#new-features)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
@@ -36,10 +34,9 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-    - [Contacts](/testing.md#contacts)
 * [Bugs](/bugs.md)
-    - [Bugs in development](/bugs.md#bugs-in-development)
-    - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
+    - [Bugs in development](#bugs-in-development)
+    - [Bugs left unsolved](#bugs-left-unsolved)
 * [Deployment](/deployment.md)
     - [Initial Deployment](/deployment.md#initial-deployment)
     - [Final Deployment](/deployment.md#final-deployment)
