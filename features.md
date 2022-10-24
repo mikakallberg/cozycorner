@@ -1,5 +1,4 @@
 # CozyCorner
-![Am I Responsive]()
 ## Navigation
 * [Deployed Front-End page]()
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
@@ -17,15 +16,14 @@
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
 * [Features](/features.md)
-   - [Existing Features](/features.md#existing-features)
-       - [Profile](/features.md#profile)
-       - [Post](/features.md#post)
-       - [Comments](/features.md#comments)
-       - [Likes](/features.md#likes)
-       - [Followers](/features.md#followers)
-       - [Messages](/features.md#messages)
-       - [Contacts](/features.md#contacts)
-   - [New Features](/features.md#new-features)
+   - [Existing Features](#existing-features)
+       - [Profile](#profile)
+       - [Post](#post)
+       - [Comments](#comments)
+       - [Likes](#likes)
+       - [Followers](#followers)
+       - [Messages](#messages)
+   - [New Features](#new-features)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
     - [Testing in development](/testing.md#testing-in-development)
@@ -35,7 +33,6 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-    - [Contacts](/testing.md#contacts)
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
@@ -47,6 +44,30 @@
     - [Content credits](#content-credits)
     - [Media](#media)  
 #
+## Existing Features
+#
+### Profile
+- 
+#
+### Post
+- 
+#
+### Comments
+- 
+#
+### Likes
+- 
+#
+### Followers
+- 
+#
+### Messages
+- 
+#
+## New Features
+#
+- 
+
 #
 * [Back to top](#)
 #
