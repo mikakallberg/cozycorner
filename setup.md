@@ -1,19 +1,19 @@
 # CozyCorner
 ## Navigation
-* [Deployed Front-End page]()
+* [Deployed Front-End page](https://cozycorner-pp5.herokuapp.com/)
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
 * [Learning Outcomes](#learning-outcomes)
-* [Technologies and Libraries](#technologies-and-libraries)
-* [Planning](#planning)
-   - [Initial planning](#initial-plan)
-   - [Plan](#plan)
-   - [Lucid Chart](#lucidchart)
-* [SetUp](/setup.md)
-   - [Set up repository](#set-up-repository)
-   - [Set up project in GitPod](#set-up-project-in-gitpod)
-* [User Experience](#user-experience-ux)
-    - [Demographics](#demographics)
-    - [User Goal](#user-goals)
+* [Bugs](/bugs.md)
+    - [Bugs in development](/bugs.md#bugs-in-development)
+    - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
+* [Credits](#credits)
+    - [Mentoring](#thank-you)
+    - [Content credits](#content-credits)
+    - [Media](#media)
+* [Deployment](/deployment.md)
+    - [Initial Deployment](/deployment.md#initial-deployment)
+    - [Final Deployment](/deployment.md#final-deployment)
+* [Design](/README.md#design)
 * [Features](/features.md)
    - [Existing Features](/features.md#existing-features)
        - [Profile](/features.md#profile)
@@ -23,6 +23,13 @@
        - [Followers](/features.md#followers)
        - [Messages](/features.md#messages)
    - [New Features](/features.md#new-features)
+* [Planning](#planning)
+   - [Initial planning](#initial-plan)
+   - [Plan](#plan)
+   - [Lucid Chart](#lucidchart)
+* [SetUp](/setup.md)
+   - [Set up repository](#set-up-repository)
+   - [Set up project in GitPod](#set-up-project-in-gitpod)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
     - [Testing in development](/testing.md#testing-in-development)
@@ -32,16 +39,10 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-* [Bugs](/bugs.md)
-    - [Bugs in development](/bugs.md#bugs-in-development)
-    - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
-* [Deployment](/deployment.md)
-    - [Initial Deployment](/deployment.md#initial-deployment)
-    - [Final Deployment](/deployment.md#final-deployment)
-* [Credits](#credits)
-    - [Mentoring](#thank-you)
-    - [Content credits](#content-credits)
-    - [Media](#media)  
+* [Technologies and Libraries](#technologies-and-libraries)
+* [User Experience](#user-experience-ux)
+    - [Demographics](#demographics)
+    - [User Goal](#user-goals) 
 #
 # Set up repository
 - Start with a new empty repo
@@ -59,6 +60,9 @@
    - All dependencies needed are now installed.
 - npm start
    - to test if React is compiled successfully
+- In Heroku Config Vars for the Back-End app:
+   - Add CLIENT_ORIGIN with the Front-End Heroku [launch page](https://cozycorner-pp5.herokuapp.com/)
+   - Add CLIENT_ORIGIN_DEV with the Front-End Preview url (this changes over time and is a known bug, solution is an update of the Config Vars when needed)
 #
 * [Back to top](#)
 #

@@ -1,21 +1,19 @@
 # CozyCorner
 ![Am I Responsive]()
 ## Navigation
-* [Deployed Front-End page]()
+* [Deployed Front-End page](https://cozycorner-pp5.herokuapp.com/)
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
-* [Learning Outcomes](#learning-outcomes)
-* [Technologies and Libraries](#technologies-and-libraries)
-* [Planning](#planning)
-   - [Initial planning](#initial-plan)
-   - [Plan](#plan)
-   - [Lucid Chart](#lucidchart)
-* [SetUp](/setup.md)
-   - [Set up repository](/setup.md#set-up-repository)
-   - [Set up project in GitPod](/setup.md#set-up-project-in-gitpod)
-   - [Set up unique model in Gitpod](/setup.md#set-up-unique-model-in-gitpod)
-* [User Experience](#user-experience-ux)
-    - [Demographics](#demographics)
-    - [User Goal](#user-goals)
+* [Bugs](/bugs.md)
+    - [Bugs in development](/bugs.md#bugs-in-development)
+    - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
+* [Credits](#credits)
+    - [Mentoring](#thank-you)
+    - [Content credits](#content-credits)
+    - [Media](#media)
+* [Deployment](/deployment.md)
+    - [Initial Deployment](/deployment.md#initial-deployment)
+    - [Final Deployment](/deployment.md#final-deployment)
+* [Design](#design)
 * [Features](/features.md)
    - [Existing Features](/features.md#existing-features)
        - [Profile](/features.md#profile)
@@ -26,6 +24,16 @@
        - [Messages](/features.md#messages)
        - [Contacts](/features.md#contacts)
    - [New Features](/features.md#new-features)
+* [Learning Outcomes](#learning-outcomes)
+* [Planning](#planning)
+   - [Initial planning](#initial-plan)
+   - [Plan](#plan)
+   - [Lucid Chart](#lucidchart)
+* [SetUp](/setup.md)
+   - [Set up repository](/setup.md#set-up-repository)
+   - [Set up project in GitPod](/setup.md#set-up-project-in-gitpod)
+   - [Set up unique model in Gitpod](/setup.md#set-up-unique-model-in-gitpod)
+* [Technologies and Libraries](#technologies-and-libraries)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
     - [Testing in development](/testing.md#testing-in-development)
@@ -36,16 +44,9 @@
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
     - [Contacts](/testing.md#contacts)
-* [Bugs](/bugs.md)
-    - [Bugs in development](/bugs.md#bugs-in-development)
-    - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
-* [Deployment](/deployment.md)
-    - [Initial Deployment](/deployment.md#initial-deployment)
-    - [Final Deployment](/deployment.md#final-deployment)
-* [Credits](#credits)
-    - [Mentoring](#thank-you)
-    - [Content credits](#content-credits)
-    - [Media](#media)  
+* [User Experience](#user-experience-ux)
+    - [Demographics](#demographics)
+    - [User Goal](#user-goals)
 #
 #
 ## Planning
@@ -79,7 +80,7 @@ Initially this project was planned as a planner tool, but after consulting  my m
 - As a Site User I can Edit and  Delete Contacts with other Users, with or without a name.
 - As a Site User I can Create Messages with other Users
 - As a Site User I can Edit and Delete Messages I sent to other Users
-
+## Design
 ## Credits
 #
 ## Thank you
