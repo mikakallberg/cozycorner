@@ -44,27 +44,27 @@
     - [Content credits](#content-credits)
     - [Media](#media)  
 #
-## Existing Features
+# Existing Features
 #
-### Profile
+## Profile
 - 
 #
-### Post
+## Post
 - 
 #
-### Comments
+## Comments
 - 
 #
-### Likes
+## Likes
 - 
 #
-### Followers
+## Followers
 - 
 #
-### Messages
+## Messages
 - 
 #
-## New Features
+# New Features
 #
 - 
 
