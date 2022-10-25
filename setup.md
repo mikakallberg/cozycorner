@@ -11,7 +11,6 @@
 * [SetUp](/setup.md)
    - [Set up repository](#set-up-repository)
    - [Set up project in GitPod](#set-up-project-in-gitpod)
-   - [Set up unique model in Gitpod](#set-up-unique-model-in-gitpod)
 * [User Experience](#user-experience-ux)
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
