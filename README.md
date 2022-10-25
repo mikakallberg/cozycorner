@@ -1,8 +1,11 @@
 # CozyCorner
 ![Am I Responsive]()
-## Navigation
+#
 * [Deployed Front-End page](https://cozycorner-pp5.herokuapp.com/)
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
+#
+## Navigation
+#
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
