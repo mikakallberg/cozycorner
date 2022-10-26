@@ -1,6 +1,5 @@
 import axios from "axios";
 
-
 axios.defaults.baseURL = 'https://portfolio-project-5-drf-api.herokuapp.com/'
 // axios.defaults.baseURL = 'https://3000-mikakallberg-cozycorner-5xekjfruf8l.ws-eu72.gitpod.io'
 axios.defaults.headers.post['Content-Type'] = 'multipart/form-data'

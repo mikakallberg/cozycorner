@@ -53,6 +53,11 @@
    - Delete all files that could interfere
    - Install dependencies
    - Recreate README-files
+- Problem uploading images for Users
+   - bug solved by adding back default image to posts/models.py in the Back-End
+- While developing the Front-End part of this project I couldn't get post_count, following_count and follow_count to work in the profile.
+   - These fields where not added to profiles/serializers.py in the Back-End. 
+   - Added items and bug resolved.
 #
 * [Back to top](#)
 #
