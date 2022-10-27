@@ -12,9 +12,6 @@
     - [Mentoring](#thank-you)
     - [Content credits](#content-credits)
     - [Media](#media)
-* [Deployment](/deployment.md)
-    - [Initial Deployment](/deployment.md#initial-deployment)
-    - [Final Deployment](/deployment.md#final-deployment)
 * [Design](/README.md#design)
 * [Features](/README.md#user-feautures)
    - [Existing Features](/README.md#existing-features)
@@ -31,6 +28,8 @@
 * [SetUp](/setup.md)
    - [Set up repository](#set-up-repository)
    - [Set up project in GitPod](#set-up-project-in-gitpod)
+    - [Initial Deployment](#initial-deployment)
+    - [Final Deployment](#final-deployment)
 * [Testing](/testing.md)
     - [First setup](/testing.md#first-setup)
     - [Testing in development](/testing.md#testing-in-development)
@@ -61,9 +60,21 @@
    - All dependencies needed are now installed.
 - npm start
    - to test if React is compiled successfully
-- In Heroku Config Vars for the Back-End app:
-   - Add CLIENT_ORIGIN with the Front-End Heroku [launch page](https://cozycorner-pp5.herokuapp.com/)
-   - Add CLIENT_ORIGIN_DEV with the Front-End Preview url (this changes over time and is a known bug, solution is an update of the Config Vars when needed)
+#
+# Initial Deployment
+- After the [set up in GitPod](#set-up-project-in-gitpod), make the initial deployment to Heroku.
+- In Heroku:
+    - Front-End app
+        - Create a new app called cozycorner-pp5
+        - connect to cozycorner repository in GitHub
+        - Launch app to create a url
+        - After connection up the Front-End and the Back-End, relaunch page with API database
+    - BackEnd app
+        - In Config Vars
+            - Add CLIENT_ORIGIN and https://cozycorner-pp5.herokuapp.com as value to give deployed page access to API database
+            - Add CLIENT_ORIGIN_DEV and https://3000-mikakallberg-cozycorner-5xekjfruf8l.ws-eu72.gitpod.io as value (this changes over time and is a known bug, solution is an update of the Config Vars when needed)
+#
+# Final Deployment
 #
 * [Back to top](#)
 #
