@@ -39,6 +39,16 @@ const NavBar = () => {
             <i className="far fa-plus-square"></i>Add post
         </NavLink>
     );
+
+    const Chat = (
+        <NavLink
+        className={styles.NavLink}
+        activeClassName={styles.Active}
+        to="/message/"
+        >
+            <i class="fa-regular fa-comments"></i>Chat
+        </NavLink>
+    );
     
     const loggedInIcons = (
         <>
@@ -106,6 +116,7 @@ const NavBar = () => {
                     </Navbar.Brand>
                 </NavLink>
                 {currentUser && addPostIcon}
+                {currentUser && Chat}
                 <Navbar.Toggle
                 ref={ref}
                 onClick={() => setExpanded(!expanded)}
