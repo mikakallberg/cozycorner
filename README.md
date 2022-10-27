@@ -49,9 +49,17 @@
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
 #
-## Key role of a Front-End developer
-#
 ## Project Goals
+- Design an interactive Front-End web application using HTML, CSS and advanced JavaScript, based on component composition and separation of concerns.
+   - For more information see [Front-End Repository](https://github.com/mikakallberg/cozycorner)
+- Explain the key role that specialist Front-End developers perform in modern software development/delivery terms.
+- Create an Application Programming Interface (current repository) for comsumption by 3rd party applications.
+   - Create Unique models.
+      - Number of models created four, two in contacts and two in imessages.
+- Create an Interactive Front-End application that consumes API data.
+#
+## Key role of a Front-End developer
+- The key-role of a Front-End developer is to build a set of clean, user friendly and reusable resources/pages, that independent of one another can be reused, even in other projects, and updated without refreshing the whole page it's view on. 
 #
 ## Planning
 #
@@ -69,9 +77,13 @@ LucidChart Back-End                                         |
 :----------------------------------------------------------:|
 ![LucidChart Back-End](/read_me_map/lucidchart.png)|
 #
-LucidChart FrontEnd                                         |
-:----------------------------------------------------------:|
-![LucidChart Front-End]()|
+LucidChart FrontEnd                                                    |
+:---------------------------------------------------------------------:|
+![LucidChart Front-End first](/read_me_map/lucidchart_frontend_one.png)|
+#
+LucidChart FrontEnd                                                    |
+:---------------------------------------------------------------------:|
+![LucidChart Front-End second](/read_me_map/lucidchart_frontend_two.png)|
 #
 ## Demographics
 - The intended user for this API is someone who wants to build a Front-End application consistent with the below stated User Goals.
