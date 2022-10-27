@@ -13,23 +13,24 @@
     - [Mentoring](#thank-you)
     - [Content credits](#content-credits)
     - [Media](#media)
+* [Demographics](#demographics)
 * [Deployment](/deployment.md)
     - [Initial Deployment](/deployment.md#initial-deployment)
     - [Final Deployment](/deployment.md#final-deployment)
 * [Design](#design)
 * [Features](#user-feautures)
-   - [Existing Features](/features.md#existing-features)
+   - [Existing Features](#existing-features)
        - [Navigation & Authentication](#navigation--authentication)
-       - [Profile](/features.md#profile)
-       - [Post](/features.md#post)
+       - [Profile](#profile)
+       - [Post](#post)
        - [Likes](#likes)
        - [Home Page](#home-page)
-   - [Future Features](/features.md#future-features)
-* [Learning Outcomes](#learning-outcomes)
+   - [Future Features](#future-features)
 * [Planning](#planning)
    - [Initial planning](#initial-plan)
    - [Plan](#plan)
    - [Lucid Chart](#lucidchart)
+* [Project Goals](#project-goals)
 * [SetUp](/setup.md)
    - [Set up repository](/setup.md#set-up-repository)
    - [Set up project in GitPod](/setup.md#set-up-project-in-gitpod)
@@ -43,11 +44,8 @@
     - [Comments](/testing.md#comments)
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
-    - [Messages](/testing.md#messages)
     - [Contacts](/testing.md#contacts)
-* [User Experience](#user-experience-ux)
-    - [Demographics](#demographics)
-    - [User Goal](#user-goals)
+* [User Feautures](#user-feautures)
 #
 ## Project Goals
 - Design an interactive Front-End web application using HTML, CSS and advanced JavaScript, based on component composition and separation of concerns.
@@ -62,7 +60,6 @@
 - The key-role of a Front-End developer is to build a set of clean, user friendly and reusable resources/pages, that independent of one another can be reused, even in other projects, and updated without refreshing the whole page it's view on. 
 #
 ## Planning
-#
 ### Initial plan
 #
 Initially this project was planned as a planner tool, but after consulting  my mentor, it was switched to follow the walkthrough from the lessons on Rest-framework and React. The wireframe for that initial plan can be found if you follow this link: https://mikakallberg.github.io/wireframe-planner/
@@ -85,6 +82,12 @@ LucidChart FrontEnd                                                    |
 :---------------------------------------------------------------------:|
 ![LucidChart Front-End second](/read_me_map/lucidchart_frontend_two.png)|
 #
+## Technologies and Libraries
+- 
+- 
+- 
+- 
+- 
 ## Demographics
 - The intended user for this API is someone who wants to build a Front-End application consistent with the below stated User Goals.
 - The social media app is intented for a demographic that is interested in sharing their photographs and connect with each other online or off-keyboard.
@@ -132,7 +135,6 @@ LucidChart FrontEnd                                                    |
 - Infinite scroll: As a user I can keep scrolling through the images on the site, that are loaded for me automatically so that I don't have to click on "next page" etc
 #
 # Future Features
-#
 - Future feautures are to user the instant message functions in the Back-End to make it possible for the Users to chat with each other.
    - This will include:
        - Making other Users contacts and displaying them in a contactlist
@@ -142,14 +144,12 @@ LucidChart FrontEnd                                                    |
 - Make it possible for Users to delete their whole profiles
 #
 ## Design
-#
 ### Wireframes
 Wireframe for desktop                                   | Wireframe for mobile
 :------------------------------------------------------:|:------------------------------------------------------:
 ![Wireframe desktop](/read_me_map/wireframe_browser.png)| ![Wireframe mobile](/read_me_map/wireframe_mobile.png)
 #
 ## Credits
-#
 ## Thank you
 - [Spencer Barriball](https://github.com/5pence) for always being there and being a fantastic mentor.
 - Tutors at Code Institute

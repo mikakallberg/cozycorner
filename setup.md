@@ -12,6 +12,7 @@
     - [Mentoring](#thank-you)
     - [Content credits](#content-credits)
     - [Media](#media)
+* [Demographics](/README.md#demographics)
 * [Design](/README.md#design)
 * [Features](/README.md#user-feautures)
    - [Existing Features](/README.md#existing-features)
@@ -40,9 +41,7 @@
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
 * [Technologies and Libraries](#technologies-and-libraries)
-* [User Experience](#user-experience-ux)
-    - [Demographics](#demographics)
-    - [User Goal](#user-goals) 
+* [User Feautures](/README.md#user-feautures) 
 #
 # Set up repository
 - Start with a new empty repo
