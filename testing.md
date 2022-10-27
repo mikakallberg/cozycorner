@@ -129,6 +129,7 @@ React Compiles Successfully from Heroku                       |
      - Saving data to Back-End
      - Editing data in Back-End from Front-End, updated_at is updated in Back-End
      - No broken links found
+     - testing responsiveness with [AmIResponsive](https://ui.dev/amiresponsive?url=https://cozycorner-pp5.herokuapp.com/)
 
 #
 * [Back to top](#)

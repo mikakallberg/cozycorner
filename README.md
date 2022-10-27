@@ -1,5 +1,5 @@
 # CozyCorner
-![Am I Responsive]()
+![Am I Responsive](/read_me_map/amiresponsive.png)
 #
 * [Deployed Front-End page](https://cozycorner-pp5.herokuapp.com/)
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
@@ -49,6 +49,9 @@
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
 #
+## Key role of a Front-End developer
+#
+## Project Goals
 #
 ## Planning
 #
