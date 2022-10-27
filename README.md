@@ -184,6 +184,8 @@ Wireframe for desktop                                   | Wireframe for mobile
 :------------------------------------------------------:|:------------------------------------------------------:
 ![Wireframe desktop](/read_me_map/wireframe_browser.png)| ![Wireframe mobile](/read_me_map/wireframe_mobile.png)
 #
+### Color Palette
+![Color palette](/read_me_map/theme_front_end.png)
 ## Credits
 ## Thank you
 - [Spencer Barriball](https://github.com/5pence) for always being there and being a fantastic mentor.
@@ -199,9 +201,11 @@ Wireframe for desktop                                   | Wireframe for mobile
 - The theme for this project is taken from Caroline Forseys [article](https://blog.hubspot.com/marketing/color-palette-inspiration) on Hubspot. The theme is called Atumn Color Palette.
 
 ### Image credit
-- The logo and favicon is from Pixabay User [createinspain](https://pixabay.com/users/createinspain-13345278/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=5092638).
+- The logo and favicon is from Pixabay User [cromaconceptovisual](https://pixabay.com/users/cromaconceptovisual-4595909/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=6855730)
 - The upload image is credited to [Jannik Texler](https://pixabay.com/users/texler-3778340/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2398772).
-- The magnifying glass is credited to [Kate](https://pixabay.com/users/gdakaska-1113303/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1724298).
+- The magnifying glass is credited to [Kate](https://pixabay.com/users/gdakaska-1113303/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1724298)
+- The image on the sign in page is from [Monika](https://pixabay.com/users/monikas_wunderwelt-9556472/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=750662)
+- The image on the sign up page is from [Anja](https://pixabay.com/users/cocoparisienne-127419/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2066402)
 - Christians profile picture is from [Ryan McGuire](https://pixabay.com/users/ryanmcguire-123690/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=362183)
 - Mikaelas profile picture is from [DanaTentis](https://pixabay.com/users/danatentis-2743349/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2042536)
 - Matts profile picture is from [Leroy Skalstad](https://pixabay.com/users/leroy_skalstad-1202818/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2442565)
