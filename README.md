@@ -5,7 +5,7 @@
 * [Deployed Back-End page](https://portfolio-project-5-drf-api.herokuapp.com/)
 #
 ## Navigation
-#
+Please note that this documentation has multiple pages
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
@@ -83,18 +83,51 @@ LucidChart FrontEnd                                                    |
 ![LucidChart Front-End second](/read_me_map/lucidchart_frontend_two.png)|
 #
 ## Technologies and Libraries
-- 
-- 
-- 
-- 
-- 
+
+### Languages used
+- [Django Rest Framework](https://www.django-rest-framework.org/) 
+
+- [HTML](https://www.w3schools.com/html/html_intro.asp)
+
+- [CSS](https://www.w3schools.com/css/css_intro.asp)
+
+- [React JS](https://reactjs.org/)
+
+### Databases
+- [Postgresql](https://www.postgresql.org/)
+  - As database in Heroku
+
+### Frameworks, tools and libraries
+#### Back-End
+- [Django Rest Framework](https://www.django-rest-framework.org/)
+- [Channels-redis](https://channels.readthedocs.io/en/latest/index.html) 
+   - Websocket tool
+- [Pillow](https://pillow.readthedocs.io/en/stable/reference/Image.html)
+   - To assist upload images to cloudinary
+- [Psycopg2](https://pypi.org/project/psycopg2/)
+   - PostgreSQL database adapter for python
+- [JSON Web Tokens](https://jwt.io/)
+   - Http-safety, web-tokens for kepping user logged in, authentication etc.
+#### Front-End
+- [React JS](https://reactjs.org/)
+- [JSON Web Tokens](https://jwt.io/)
+    - Web-tokens for kepping user logged in, authentication etc.
+- [React Bootstrap](https://react-bootstrap-v4.netlify.app/)
+   - Specilaize Bootstrap framework with React components
+- [React Router](https://v5.reactrouter.com/web/guides/quick-start)
+   - Assist in switches, routes and links for React apps.
+
+
+### Cloud storage and deployment services
+- [Cloudinary](https://cloudinary.com/)
+- [Heroku](https://www.heroku.com/)
+- [Gunicorn](https://gunicorn.org/)
+
 ## Demographics
 - The intended user for this API is someone who wants to build a Front-End application consistent with the below stated User Goals.
 - The social media app is intented for a demographic that is interested in sharing their photographs and connect with each other online or off-keyboard.
 #
 ## User Feautures
-- Please see Agile development under the tab Projects in GitHub repo-page.
-#
 ### Navigation & Authentication
 - Navigation: As a user I can view a navbar from every page so that I can navigate easily between pages
 - Routing: As a user I can navigate through pages quickly so that I can view content seamlessly without page refresh
@@ -142,6 +175,8 @@ LucidChart FrontEnd                                                    |
        - Edit a message that has been sent
        - Deleteing a message tha has been sent
 - Make it possible for Users to delete their whole profiles
+#
+- For more information please see Agile development under the tab Projects in GitHub repo-page.
 #
 ## Design
 ### Wireframes
