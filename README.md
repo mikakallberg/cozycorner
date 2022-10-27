@@ -67,7 +67,7 @@ Initially this project was planned as a planner tool, but after consulting  my m
 #
 LucidChart Back-End                                         |
 :----------------------------------------------------------:|
-![LucidChart Back-End](/assets/images_readme/lucidchart.png)|
+![LucidChart Back-End](/read_me_map/lucidchart.png)|
 #
 LucidChart FrontEnd                                         |
 :----------------------------------------------------------:|
