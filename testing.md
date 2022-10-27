@@ -16,15 +16,14 @@
     - [Initial Deployment](/deployment.md#initial-deployment)
     - [Final Deployment](/deployment.md#final-deployment)
 * [Design](/README.md#design)
-* [Features](/features.md)
-   - [Existing Features](/features.md#existing-features)
-       - [Profile](/features.md#profile)
-       - [Post](/features.md#post)
-       - [Comments](/features.md#comments)
-       - [Likes](/features.md#likes)
-       - [Followers](/features.md#followers)
-       - [Messages](/features.md#messages)
-   - [New Features](/features.md#new-features)
+* [Features](/README.md#user-feautures)
+   - [Existing Features](/README.md#existing-features)
+       - [Navigation & Authentication](/README.md#navigation--authentication)
+       - [Profile](/README.md#profile)
+       - [Post](/README.md#post)
+       - [Likes](/README.mdd#likes)
+       - [Home Page](/features.md#home-page)
+   - [Future Features](/README.md#future-features)
 * [Learning Outcomes](#learning-outcomes)
 * [Planning](#planning)
    - [Initial planning](#initial-plan)
@@ -43,7 +42,6 @@
     - [Comments](#comments)
     - [Likes](#likes)
     - [Followers](#followers)
-    - [Messages](#messages)
 * [User Experience](#user-experience-ux)
     - [Demographics](#demographics)
     - [User Goal](#user-goals)
@@ -64,21 +62,51 @@ React Compiles Successfully from Heroku                       |
 ![React Compile Heroku](/read_me_map/heroku_react_success.png)|
 #
 # Testing in development
--
-#
+- A logged out User can only view items
+- A logged out User can log in or register an account
 ## Profiles
-- 
+- Testing creating a profile for the User Matt
+- Testing editing profile: 
+         - Bio
+         - Image
+         - Username
+         - Password
+     - Successfull
+- Testing Follow and Unfollowing other Users
+    - Following from 'Most Followed Users'
+    - Following from Profile page
+- Testing items followers and following change when following and unfollowing a User
+- A User can view other Users profiles
+- A User can only access the edit and delete tools on the Profile page they own.
+- The posts from the Users a User follows appear on the Feed-page
 #
 ## Comments
-- 
+- A User can view their own and other Users posts
+   - In that view they can comment that post
+   - If a User created a comment, they can then edit or delete that comment
+   - If a user did not create a comment, they can only view the comment
+   - If the owner of the commented post, deletes that posts, the comments are deleted as well
+- The comment-count changes when the number of comments change
 #
 ## Likes
-- 
+- A User can like and unlike other Users posts
+- A User cannot like their own post
+- A User can only like a post if they haven't already liked it
+- A users liked posts appear on the Like-page
+- The like-count changes when the number of likes change
 #
-## Followers
-- 
+## General Testing
+- Tested the:
+     - Collaps of the NavBar
+     - Toggle of the Navbar
+     - Responsiveness of the layout
+     - upload of images to Cloudinary from UI
+     - Login
+     - Register
+     - Saving data to Back-End
+     - Editing data to the Back-End
+     - No broken links
+
 #
-## Messages
-- 
 * [Back to top](#)
 #
