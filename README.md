@@ -59,6 +59,9 @@ Please note that this documentation has multiple pages
 ## Key role of a Front-End developer
 - The key-role of a Front-End developer is to build a set of clean, user friendly and reusable resources/pages, that independent of one another can be reused, even in other projects, and updated without refreshing the whole page it's view on. 
 #
+## Difference for the User when using React compaired to vanilla JavaScript
+- Since React JS is built up of components that are reusable on several "pages", it's more intuitive for the user. They don't have to learn to "drive the car" with each new page they visit on the platform, and the whole page doesn't reload which would paus the user flow.
+#
 ## Planning
 ### Initial plan
 #
@@ -125,7 +128,7 @@ LucidChart FrontEnd                                                    |
 
 ## Demographics
 - The intended user for this API is someone who wants to build a Front-End application consistent with the below stated User Goals.
-- The social media app is intented for a demographic that is interested in sharing their photographs and connect with each other online or off-keyboard.
+- The Cozy Corner is intented for a demographic that likes social media, but want a warmer and calmer space to interact with other people, more personable.
 #
 ## User Feautures
 ### Navigation & Authentication
