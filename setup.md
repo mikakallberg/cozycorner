@@ -4,14 +4,13 @@
 #
 ## Navigation
 #
-* [Learning Outcomes](#learning-outcomes)
 * [Bugs](/bugs.md)
     - [Bugs in development](/bugs.md#bugs-in-development)
     - [Bugs left unsolved](/bugs.md#bugs-left-unsolved)
-* [Credits](#credits)
-    - [Mentoring](#thank-you)
-    - [Content credits](#content-credits)
-    - [Media](#media)
+* [Credits](/README.md#credits)
+    - [Mentoring](/README.md#thank-you)
+    - [Content credits](/README.md#content-credits)
+    - [Media](/README.md#media)
 * [Demographics](/README.md#demographics)
 * [Design](/README.md#design)
 * [Features](/README.md#user-feautures)
@@ -19,9 +18,10 @@
        - [Navigation & Authentication](/README.md#navigation--authentication)
        - [Profile](/README.md#profile)
        - [Post](/README.md#post)
-       - [Likes](/README.mdd#likes)
-       - [Home Page](/features.md#home-page)
+       - [Likes](/README.md#likes)
+       - [Home Page](/README.md#home-page)
    - [Future Features](/README.md#future-features)
+* [Learning Outcomes](/README.md#learning-outcomes)
 * [Planning](/README.md#planning)
    - [Initial planning](/README.md#initial-plan)
    - [Plan](/README.md#plan)
@@ -40,7 +40,7 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-* [Technologies and Libraries](#technologies-and-libraries)
+* [Technologies and Libraries](/README.md#technologies-and-libraries)
 * [User Feautures](/README.md#user-feautures) 
 #
 # Set up repository

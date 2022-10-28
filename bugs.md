@@ -19,7 +19,7 @@
        - [Profile](/README.md#profile)
        - [Post](/README.md#post)
        - [Likes](/README.mdd#likes)
-       - [Home Page](/features.md#home-page)
+       - [Home Page](/README.md#home-page)
    - [Future Features](/README.md#future-features)
 * [Planning](/README.md#planning)
    - [Initial planning](/README.md#initial-plan)
@@ -42,9 +42,7 @@
     - [Likes](/testing.md#likes)
     - [Followers](/testing.md#followers)
     - [Messages](/testing.md#messages)
-* [User Experience](#user-experience-ux)
-    - [Demographics](#demographics)
-    - [User Goal](/README.md#user-goals)
+* [User Feautures](/README.md#user-feautures)
 
 #
 ## Bugs in development

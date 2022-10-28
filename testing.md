@@ -20,7 +20,7 @@
        - [Profile](/README.md#profile)
        - [Post](/README.md#post)
        - [Likes](/README.mdd#likes)
-       - [Home Page](/features.md#home-page)
+       - [Home Page](/README.md#home-page)
    - [Future Features](/README.md#future-features)
 * [Planning](/README.md#planning)
    - [Initial planning](/README.md#initial-plan)
