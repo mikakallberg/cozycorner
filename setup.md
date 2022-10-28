@@ -74,6 +74,11 @@
             - Add CLIENT_ORIGIN_DEV and https://3000-mikakallberg-cozycorner-5xekjfruf8l.ws-eu72.gitpod.io as value (this changes over time and is a known bug, solution is an update of the Config Vars when needed)
 #
 # Final Deployment
+- In Heroku.
+    - After pushing the last version to GitHub, from GitPod.
+        - Under the tab deploy, deploy latest bransch, ensure successfull build.
+        - Open app
+        - Test all feautures in deployed version to make sure it's the same as the preview.
 #
 * [Back to top](#)
 #
