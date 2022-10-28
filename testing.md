@@ -64,7 +64,8 @@ React Compiles Successfully from Heroku                       |
 - A logged out User can log in or register an account
 #
 ## Profiles
-- Testing creating a profile for the User Matt
+- All testing is done on multiple users
+- Testing creating a profile
 - Testing editing profile: 
          - Bio
          - Image
@@ -112,8 +113,8 @@ React Compiles Successfully from Heroku                       |
 ## General Testing
 - Tested the:
      - Collaps of the NavBar
-     - Toggle of the Navbar
-     - Responsiveness of the layout
+     - NavBar in different views
+     - Responsiveness of the layout down to 320px.
      - upload of images to Cloudinary from UI
      - Login
         - error thrown if wrong username
@@ -122,6 +123,7 @@ React Compiles Successfully from Heroku                       |
         - error thrown if no password
      - Register
         - error thrown if no username
+        - error thrown if username is taken
         - error thrown if no password and confirmed password
         - error thrown if password and confirm password doesn't add upp
      - Saving data to Back-End
