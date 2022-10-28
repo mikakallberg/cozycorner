@@ -62,9 +62,9 @@ React Compiles Successfully from Heroku                       |
 # Testing in development
 - A logged out User can only view items
 - A logged out User can log in or register an account
+- All testing is done on multiple users
 #
 ## Profiles
-- All testing is done on multiple users
 - Testing creating a profile
 - Testing editing profile: 
          - Bio
@@ -130,7 +130,39 @@ React Compiles Successfully from Heroku                       |
      - Editing data in Back-End from Front-End, updated_at is updated in Back-End
      - No broken links found
      - testing responsiveness with [AmIResponsive](https://ui.dev/amiresponsive?url=https://cozycorner-pp5.herokuapp.com/)
-
+#
+## Images from testing
+Error credentials                                       | Error login
+:------------------------------------------------------:|:--------------------------------------------:
+![Error credentials](/read_me_map/error_credentials.png)| ![Error login](/read_me_map/error_login.png)
+#
+Error message image upload                                 | Error message user exists
+:---------------------------------------------------------:|:----------------------------------------------------------:
+![Error message image](/read_me_map/errormessage_image.png)| ![Error message user exists](/read_me_map/user_exists.png)
+#
+Access edit and delete comment                                      | Access Edit and delete post
+:------------------------------------------------------------------:|:------------------------------------------------------------:
+![Acces edit and delete](/read_me_map/access_editdelete_comment.png)| ![Access edit and delete](/read_me_map/access_editdelete.png)
+#
+Searchbar post                                    | Searchbar user
+:------------------------------------------------:|:-------------------------------------------------:
+![Searchbar post](/read_me_map/searchbar_post.png)| ![Searchbar user](/read_me_map/searchbar_user.png)
+#
+Search bar not found                                        | Updated image
+:----------------------------------------------------------:|:-----------------------------------------------:
+![Search bar not found](/read_me_map/searchbar_notfound.png)| ![Updated image](/read_me_map/updated_image.png)
+#
+User already exists mobile                                | Password to short
+:--------------------------------------------------------:|:------------------------------------------------------:
+![User already exists mobile](/read_me_map/user_taken.png)| ![Password to short](/read_me_map/password_toshort.png)
+#
+Blank lines                                 | Passwords doesn't match
+:------------------------------------------:|:-------------------------------------------------------------:
+![Blank lines](/read_me_map/blank_lines.png)| ![Passwords doesn't match](/read_me_map/password_nomatch.png)
+#
+Unable to login with credentials mobile                                    |
+:-------------------------------------------------------------------------:|
+![Unable to login with credentials mobile](/read_me_map/unable_to_login.png)| 
 #
 * [Back to top](#)
 #
